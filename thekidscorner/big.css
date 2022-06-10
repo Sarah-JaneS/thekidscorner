@@ -1,0 +1,78 @@
+/* do mobile first */
+
+/* 
+body{
+	background-color: red; 
+}
+*/
+
+header{
+	max-width: 100%;
+}
+
+header h1 {
+	max-width: 650px;
+	margin: 0 auto 1rem auto;
+	padding: 10px;
+}
+
+
+.helpbar p {
+	float: right;
+}
+
+header p {
+	max-width: 650px;
+	margin: 0 auto 0.5em auto;
+}
+
+main {
+	margin: auto;
+	max-width: 200px;
+	padding: 20px;
+	max-width: 600px;
+}
+
+.navbar img {
+	float: right;
+	margin-right: 200px;
+}
+
+
+.title {
+	font-size:40px;
+	font-weight: 700;
+}
+
+.caption {
+	margin: 0px;
+	height: 70px;
+	font-size: 20px;
+	padding-left: 40px;
+}
+
+.main-block{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+main p {
+	max-width: 600px;
+	font-size: 15pt;
+}
+
+
+footer {
+	max-width: 100%;
+}
+
+footer h2 {
+	max-width: 650px;
+	margin: 0 auto 1rem auto;
+}
+
+
+footer ul li {
+	max-width: 650px;
+	margin: 0 auto .5em auto;
+}
